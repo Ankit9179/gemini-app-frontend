@@ -43,7 +43,7 @@ function App() {
         <div className="flex flex-col gap-8 w-full md:w-1/2 h-auto items-center justify-center p-4">
           <div id='animation' className="w-24 h-24 md:w-48 md:h-48 rounded-full shadow-lg shadow-cyan-500/50 overflow-hidden">
             <img
-              src='../public/user1.avif'
+              src='/user1.avif'
               className="w-full h-full object-cover"
               alt="profile pic"
             />
@@ -70,7 +70,7 @@ function App() {
         <div className="flex flex-col gap-8 w-full md:w-1/2 h-auto items-center justify-center p-4">
           <div id='animation' className="w-24 h-24 md:w-48 md:h-48 rounded-full shadow-lg shadow-cyan-500/50 overflow-hidden">
             <img
-              src='../public/ai.avif'
+              src='/ai.avif'
               className="w-full h-full object-cover"
               alt="profile pic"
             />
